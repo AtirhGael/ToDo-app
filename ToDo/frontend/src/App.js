@@ -156,6 +156,9 @@ class App extends Component {
             onSave={this.handleSubmit}
           />
         ) : null}
+        <div>
+          i will alwaiys remember u 
+        </div>
       </main>
      
     );
